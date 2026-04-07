@@ -33,5 +33,3 @@ Construyo cosas o las rompo..., las documento y publico.
 [![blog](https://img.shields.io/badge/makerforge.dev-0A0A0A?style=for-the-badge&logo=ghost&logoColor=FF3B30)](https://makerforge.dev)
 [![instagram](https://img.shields.io/badge/@daik0z.builds-0A0A0A?style=for-the-badge&logo=instagram&logoColor=FF3B30)](https://instagram.com/daik0z.builds)
 [![youtube](https://img.shields.io/badge/YouTube-0A0A0A?style=for-the-badge&logo=youtube&logoColor=FF3B30)](https://youtube.com/@daik0zbuilds)
-
-<sub>proceso honesto · nada se oculta · nada se embellece</sub>
