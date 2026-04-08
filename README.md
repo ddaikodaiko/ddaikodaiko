@@ -20,9 +20,8 @@ Construyo cosas o las rompo..., las documento y publico.
 
 | | repo | que es |
 |---|---|---|
-| 🔴 | **[FocusGate](#)** | Extension Chrome que bloquea Twitter hasta que codeas algo. Proyecto de revenue. |
-| ⚫ | **[makerforge.dev](https://makerforge.dev)** | Mi blog. electronica, maker y proceso honesto. |
-| ⚫ | **[Apuntes-Java](#)** | Mis apuntes reales de FP. Errores incluidos. |
+| 🔴 | **[FocusGate](#)** | Extension Chrome que bloquea Twitter hasta que resuelves un reto de código.|
+| ⚫ | **[makerforge.dev](https://makerforge.dev)** | Mi blog.|
 
 ### racha
 
